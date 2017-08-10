@@ -1,4 +1,4 @@
-/*eslint-disable object-shorthand*/
+/*eslint-disable */
 
 const defaultColors = {
   primary: '#f9c300',

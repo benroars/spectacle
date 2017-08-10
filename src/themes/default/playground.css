@@ -3,6 +3,9 @@
   align-items: center;
   height: inherit;
 }
+.playgroundPreview {
+  display: none;
+}
 
 .playground .playgroundCode {
   flex: 1;
